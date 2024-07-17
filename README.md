@@ -1,4 +1,5 @@
-
+# Hi, I'm Doan Cong Tri
+I'm student at University of Technology in Ho Chi Minh City - VietNam.
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100034637520503) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/doan-cong-tri-106509266/?trk=public-profile-join-page) 
 
